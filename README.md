@@ -1,6 +1,6 @@
-# Prometheus AD Manager
+# PrometheusAD
 
-**Prometheus AD Manager** é uma solução completa e amigável em PowerShell com interface gráfica para gestão avançada de usuários no Active Directory, especialmente focada em automação de processos de concessão, remoção e administração de acessos em ambientes corporativos.
+**PrometheusAD** é uma solução completa e amigável em PowerShell com interface gráfica para gestão avançada de usuários no Active Directory, especialmente focada em automação de processos de concessão, remoção e administração de acessos em ambientes corporativos.
 
 ---
 
@@ -81,4 +81,4 @@ Sempre será solicitado via caixa de diálogo uma nova entrada/correção, garan
 - Deploy via instalador automatizado.
 
 ```bash
-git clone https://github.com/sua-empresa/prometheus-ad-manager.git
+git clone https://https://github.com/grouland/PrometheusAD.git
